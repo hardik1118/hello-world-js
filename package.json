@@ -16,7 +16,7 @@
   "scripts": {
     "start": "node ./src/index.js",
     "test": "node ./test/index.js",
-    "sonar": "sonar-scanner"
+    "sonar": "npm run add-version && sonar-scanner"
   },
   "keywords": [
     "hello",
