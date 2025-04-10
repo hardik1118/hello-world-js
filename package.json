@@ -15,7 +15,8 @@
   },
   "scripts": {
     "start": "node ./src/index.js",
-    "test": "node ./test/index.js"
+    "test": "node ./test/index.js",
+    "build": "echo 'Build step goes here'"
   },
   "keywords": [
     "hello",
