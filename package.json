@@ -16,7 +16,7 @@
   "scripts": {
     "start": "node ./src/index.js",
     "test": "node ./test/index.js",
-    "build": "echo 'Build step goes here'"
+    "sonar": "sonar-scanner"
   },
   "keywords": [
     "hello",
